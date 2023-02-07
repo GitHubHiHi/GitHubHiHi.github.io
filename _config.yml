@@ -1,6 +1,6 @@
 # Site settings
-title: BY Blog
-SEOTitle: 難還的博客 | NH Blog
+title: 難還的博客
+SEOTitle: 難還的博客
 header-img: img/post-bg-desk.jpg
 email: 3021659045@qq.com
 description: "Every failure is leading towards success."
@@ -44,14 +44,14 @@ gems: [jekyll-paginate]
 
 
 
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+# # Markdown settings
+# # replace redcarpet to kramdown,
+# # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# # document: http://jekyllrb.com/docs/configuration/#kramdown
+# markdown: kramdown
+# highlighter: rouge
+# kramdown:
+#   input: GFM                            # use Github Flavored Markdown !important
 
 
 
